@@ -20,11 +20,11 @@
 
 <h3>String</h3>
 
-- Z Algorithm
-  - just z algorithm
+Z Algorithm
+- just z algorithm
 
-- Number of Substrings<br>
-  - \# of nodes in trie minus root
+Number of Substrings
+- \# of nodes in trie minus root
 
 <h3>Geometry</h3>
 
