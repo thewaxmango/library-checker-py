@@ -21,16 +21,25 @@
 <h3>String</h3>
 
 Z Algorithm ✅
-- z algorithm
+- Z-algorithm
 
 Enumerate Palindromes ✅
-- manacher's algorithm
+- Manacher's algorithm
 
 Suffix Array ✅ 🏆
 - suffix array
 
 Number of Substrings
 - \# of nodes in trie minus root
+
+Run Enumerate
+
+Prefix-Substring LCS
+
+Lyndon Factorization ✅ 🏆
+- Duval's algorithm
+
+Longest Common Substring 
 
 <h3>Geometry</h3>
 
