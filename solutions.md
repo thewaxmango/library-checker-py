@@ -20,11 +20,14 @@
 
 <h3>String</h3>
 
-Z Algorithm
-- just z algorithm
+Z Algorithm ✅
+- z algorithm
+
+Enumerate Palindromes ✅
+- manacher's algorithm
 
 Suffix Array ✅ 🏆
-- just suffix array
+- suffix array
 
 Number of Substrings
 - \# of nodes in trie minus root
