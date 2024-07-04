@@ -23,6 +23,9 @@
 Z Algorithm
 - just z algorithm
 
+Suffix Array ✅ 🏆
+- just suffix array
+
 Number of Substrings
 - \# of nodes in trie minus root
 
