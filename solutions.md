@@ -20,8 +20,11 @@
 
 <b>String</b>
 
+- Z Algorithm
+  - just z algorithm
+
 - Number of Substrings<br>
-  - \# nodes in trie minus root
+  - \# of nodes in trie minus root
 
 <b>Geometry</b>
 
