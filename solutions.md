@@ -39,7 +39,8 @@ Prefix-Substring LCS
 Lyndon Factorization ✅ 🏆
 - Duval's algorithm
 
-Longest Common Substring 
+Longest Common Substring ✅ 🏆
+- use suffix array and lcp
 
 <h3>Geometry</h3>
 
