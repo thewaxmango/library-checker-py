@@ -1,4 +1,4 @@
-<b>Sample</b>
+<h6><b>Sample</b></h6>
 
 <b>Data Structure</b>
 
