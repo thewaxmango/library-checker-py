@@ -1,24 +1,24 @@
 <h3>Sample</h3>
 
-<b>Data Structure</b>
+<h3>Data Structure</h3>
 
-<b>Graph</b>
+<h3>Graph</h3>
 
-<b>Tree</b>
+<h3>Tree</h3>
 
-<b>Convolution</b>
+<h3>Convolution</h3>
 
-<b>Number Theory</b>
+<h3>Number Theory</h3>
 
-<b>Polynomial</b>
+<h3>Polynomial</h3>
 
-<b>Set Power Series</b>
+<h3>Set Power Series</h3>
 
-<b>Enumerative Combinatorics</b>
+<h3>Enumerative Combinatorics</h3>
 
-<b>Linear Algebra</b>
+<h3>Linear Algebra</h3>
 
-<b>String</b>
+<h3>String</h3>
 
 - Z Algorithm
   - just z algorithm
@@ -26,8 +26,8 @@
 - Number of Substrings<br>
   - \# of nodes in trie minus root
 
-<b>Geometry</b>
+<h3>Geometry</h3>
 
-<b>Big Integer</b>
+<h3>Big Integer</h3>
 
-<b>Other</b>
+<h3>Other</h3>
