@@ -33,7 +33,7 @@ Number of Substrings ✅ 🏆
 - total possible - \# of duplicates (sum of LCP array)
 
 Run Enumerate ✅ 🏆
-- either Main-Lorentz or run-enumerate alg from yosupo
+- either Main-Lorentz or run-enumerate alg from other answer
 
 Prefix-Substring LCS
 
