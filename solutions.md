@@ -32,7 +32,8 @@ Suffix Array ✅ 🏆
 Number of Substrings ✅ 🏆
 - total possible - \# of duplicates (sum of LCP array)
 
-Run Enumerate
+Run Enumerate ✅ 🏆
+- either Main-Lorentz or run-enumerate alg from yosupo
 
 Prefix-Substring LCS
 
