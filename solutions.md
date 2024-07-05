@@ -29,8 +29,8 @@ Enumerate Palindromes ✅
 Suffix Array ✅ 🏆
 - suffix array
 
-Number of Substrings
-- \# of nodes in trie minus root
+Number of Substrings ✅ 🏆
+- total possible - \# of duplicates (sum of LCP array)
 
 Run Enumerate
 
