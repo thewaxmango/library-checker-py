@@ -1,1 +1,1 @@
-# library-checker-py
+# Notes for yosupo online judge
