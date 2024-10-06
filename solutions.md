@@ -2,6 +2,9 @@
 
 <h3>Data Structure</h3>
 
+Double-Ended Priority Queue ✅
+- Interval Heap or equivalent DS
+
 <h3>Graph</h3>
 
 <h3>Tree</h3>
